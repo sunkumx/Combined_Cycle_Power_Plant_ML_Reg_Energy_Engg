@@ -20,6 +20,32 @@ Features consist of hourly average ambient variables
 - Net hourly electrical energy output (EP) 420.26-495.76 MW
 The averages are taken from various sensors located around the plant that record the ambient variables every second. The variables are given without normalization.
 
+## Overview
+
+This repository contains the code and documentation for a Machine Learning project focused on optimizing the efficiency of a Combined Cycle Power Plant. The project utilizes predictive modeling and data analytics to enhance operational performance, reduce energy consumption, and implement a comprehensive monitoring and predictive maintenance system.
+
+## Project Highlights
+
+1. **Energy Efficiency Optimization:**
+   - Implemented machine learning models to optimize the energy efficiency of a Combined Cycle Power Plant.
+   - Leveraged predictive modeling techniques to enhance operational performance and reduce energy consumption.
+
+2. **Predictive Maintenance System:**
+   - Developed a comprehensive monitoring and predictive maintenance system for the power plant.
+   - Utilized machine learning algorithms to predict equipment failures, minimize downtime, and improve overall reliability.
+
+## Key Skills Applied
+
+- Machine Learning
+- Predictive Modeling
+- Data Analytics
+- Energy Efficiency
+- Power Plant Operations
+- Predictive Maintenance
+- Reliability Improvement
+- Data-driven Decision Making
+
+
 # Outcome 
 
 
