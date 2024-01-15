@@ -1,11 +1,16 @@
 # Combine-Cycle-Power-Plant
 
 The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the plant was set to work with full load.
-Dataset Characteristics: Multivariate
-Subject Area: Computer Science
-Associated Tasks: Regression
-Feature Type: Real
-Instances: 9568
+
+# Dataset Information
+
+| Characteristic        | Description          |
+|-----------------------|----------------------|
+| Dataset Type          | Multivariate         |
+| Subject Area          | Energy Engineering   |
+| Associated Tasks      | Regression           |
+| Feature Type          | Real                 |
+| Number of Instances   | 9568                 |
 
 # Data Information
 The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP)  of the plant.
