@@ -1,6 +1,10 @@
 # Python virtual environment
 .venv/
 
+# Folder 
+model/
+models/
+
 # Byte-compiled / cache files
 
 
