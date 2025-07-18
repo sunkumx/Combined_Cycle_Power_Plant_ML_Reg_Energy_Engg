@@ -5,6 +5,7 @@
 
 
 # Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
 
 # VSCode settings
