@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / cache files
+
+
+# Jupyter Notebook checkpoints
+
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
