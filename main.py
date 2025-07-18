@@ -1,7 +1,7 @@
 from src import data_loader, preprocess, train, evaluate
 
 #Load the dataset
-df = data_loader.load_data('../CCPP.csv')
+df = data_loader.load_data("CCPP.csv")
 
 #Preprocessing the data
 X_train, X_test, y_train, y_test, scaler = preprocess.preprocess(df)
