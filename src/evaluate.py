@@ -7,7 +7,7 @@ from sklearn.metrics import (
     root_mean_squared_error,
 )
 
-def evaluate(model, X_test, y_test, model_name="RandomForestRegressor", output_dir="model-oputput"):
+def evaluate(model, X_test, y_test, model_name="RandomForestRegressor", output_dir="model-output"):
     preds = model.predict(X_test)
 
     mse = mean_squared_error(y_test, preds)
